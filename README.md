@@ -1,5 +1,4 @@
-# nowcoder-java-awesome2021
-牛客网2021年Java精华面经汇总
+# 牛客网2021年Java精华面经汇总
 
 更新时间：2021年3月31日
 1. [字节后端开发日常实习面试全流程~](https://www.nowcoder.com/discuss/588626?from=gitnowcoder2021)
