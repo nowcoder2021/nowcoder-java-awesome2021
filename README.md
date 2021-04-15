@@ -26,11 +26,14 @@
 23. [阿里CBU - Java开发暑期实习 - 面试复盘](https://www.nowcoder.com/discuss/623184?from=gitnowcoder2021)
 24. [【万字】携程后台开发面经分类汇总](https://www.nowcoder.com/discuss/624512?from=gitnowcoder2021)
 25. [春招Java后台开发岗22届实习面经汇总阿里腾讯美团网易](https://www.nowcoder.com/discuss/625070?from=gitnowcoder2021)
-26. [《大厂面试》—Java 集合连环30问](https://www.nowcoder.com/discuss/631980?from=gitnowcoder2021)
-27. [普通人的春招实习总结（阿里、腾讯 Offer，美团等HR）](https://www.nowcoder.com/discuss/632032?from=gitnowcoder2021)
-28. [阿里六面面经](https://www.nowcoder.com/discuss/632476?from=gitnowcoder2021)
-29. [腾讯wxg 微信支付 后端 暑期实习 一二三四五面](https://www.nowcoder.com/discuss/634438?from=gitnowcoder2021)
+26. [社招转行Java，蚂蚁、拼多多、美团（均offer）](https://www.nowcoder.com/discuss/630841?from=gitnowcoder2021)
+27. [《大厂面试》—Java 集合连环30问](https://www.nowcoder.com/discuss/631980?from=gitnowcoder2021)
+28. [普通人的春招实习总结（阿里、腾讯 Offer，美团等HR）](https://www.nowcoder.com/discuss/632032?from=gitnowcoder2021)
+29. [阿里六面面经](https://www.nowcoder.com/discuss/632476?from=gitnowcoder2021)
 30. [求浆得酒，能有好运，也该为大家做些什么](https://www.nowcoder.com/discuss/634573?from=gitnowcoder2021)
+31. [【简历】校招工程师类技术岗简历如何撰写](https://www.nowcoder.com/discuss/634906?from=gitnowcoder2021)
+32. [面试必会！Java后端开发岗位并发部分高频面试题分享](https://www.nowcoder.com/discuss/636127?from=gitnowcoder2021)
+33. [双非本科大三生拿到大厂offer的面试经历](https://www.nowcoder.com/discuss/639710?from=gitnowcoder2021)
 ---
 求职之前，先上牛客
 
