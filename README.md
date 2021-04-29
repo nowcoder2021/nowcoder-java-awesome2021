@@ -1,6 +1,6 @@
 # 牛客网2021年Java精华面经汇总（周更）
 
-更新时间：2021年4月22日
+更新时间：2021年4月29日
 1. [字节后端开发日常实习面试全流程~](https://www.nowcoder.com/discuss/588626?from=gitnowcoder2021)
 2. [北京天润融通科技Java社招面经](https://www.nowcoder.com/discuss/591855?from=gitnowcoder2021)
 3. [国企秋招经验总结](https://www.nowcoder.com/discuss/592495?from=gitnowcoder2021)
@@ -32,12 +32,20 @@
 29. [字节 后端开发一到三面 许愿offer](https://www.nowcoder.com/discuss/640549?from=gitnowcoder2021)
 30. [腾讯/字节/华为/携程 春招 佛系面经 （腾讯已OFFER）](https://www.nowcoder.com/discuss/641881?from=gitnowcoder2021)
 31. [阿里面经一面、伯乐已过、止于二面](https://www.nowcoder.com/discuss/641990?from=gitnowcoder2021)
-32. [后端开发社招分享面经攒人品](https://www.nowcoder.com/discuss/642651?from=gitnowcoder2021)
-33. [校招实习Java后台面经汇总（阿里、字节、腾讯、京东等）](https://www.nowcoder.com/discuss/642948?from=gitnowcoder2021)
-34. [字节用户增长中台暑期实习一二三面(已约hr面)](https://www.nowcoder.com/discuss/643926?from=gitnowcoder2021)
+32. [校招实习Java后台面经汇总（阿里、字节、腾讯、京东等）](https://www.nowcoder.com/discuss/642948?from=gitnowcoder2021)
+33. [字节用户增长中台暑期实习一二三面(已约hr面)](https://www.nowcoder.com/discuss/643926?from=gitnowcoder2021)
+34. [AmberGroup 社招一面2021.04.20](https://www.nowcoder.com/discuss/645302?from=gitnowcoder2021)
 35. [半年工作经验，社招测开转开发面经](https://www.nowcoder.com/discuss/645437?from=gitnowcoder2021)
 36. [字节电商春招后端实习一到四面面经](https://www.nowcoder.com/discuss/645528?from=gitnowcoder2021)
-37. [什么，腾讯6次面试都倒在一面？非科班菜鸡实习面试的悲惨经历](https://www.nowcoder.com/discuss/645548?from=gitnowcoder2021)
+37. [阿里暑期实习Java面经(已OC, 两个部门+详细时间线）](https://www.nowcoder.com/discuss/646189?from=gitnowcoder2021)
+38. [22届实习面经汇总(腾讯、携程、阿里、美团、远景)](https://www.nowcoder.com/discuss/648782?from=gitnowcoder2021)
+39. [春招后端开发从0到offer](https://www.nowcoder.com/discuss/648819?from=gitnowcoder2021)
+40. [回馈牛客，2021暑期实习完满结束！【阿里意向书】](https://www.nowcoder.com/discuss/648920?from=gitnowcoder2021)
+41. [春招暑期实习面试经验小分享，阿里腾讯美团字节实习offer](https://www.nowcoder.com/discuss/649704?from=gitnowcoder2021)
+42. [阿里一面凉经，面试官人很好，是我太菜](https://www.nowcoder.com/discuss/649907?from=gitnowcoder2021)
+43. [【记】双非菜鸡的暑期实习面试经历](https://www.nowcoder.com/discuss/649998?from=gitnowcoder2021)
+44. [Java暑期实习面试记录](https://www.nowcoder.com/discuss/650041?from=gitnowcoder2021)
+45. [字节TikTok暑期实习一面二面三面面经（以OC）](https://www.nowcoder.com/discuss/650231?from=gitnowcoder2021)
 ---
 求职之前，先上牛客
 
