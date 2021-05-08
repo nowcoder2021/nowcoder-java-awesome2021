@@ -1,6 +1,6 @@
 # 牛客网2021年Java精华面经汇总（周更）
 
-更新时间：2021年4月29日
+更新时间：2021年5月8日
 1. [字节后端开发日常实习面试全流程~](https://www.nowcoder.com/discuss/588626?from=gitnowcoder2021)
 2. [北京天润融通科技Java社招面经](https://www.nowcoder.com/discuss/591855?from=gitnowcoder2021)
 3. [国企秋招经验总结](https://www.nowcoder.com/discuss/592495?from=gitnowcoder2021)
@@ -46,6 +46,9 @@
 43. [【记】双非菜鸡的暑期实习面试经历](https://www.nowcoder.com/discuss/649998?from=gitnowcoder2021)
 44. [Java暑期实习面试记录](https://www.nowcoder.com/discuss/650041?from=gitnowcoder2021)
 45. [字节TikTok暑期实习一面二面三面面经（以OC）](https://www.nowcoder.com/discuss/650231?from=gitnowcoder2021)
+46. [网易互娱 服务端开发 暑期实习一、二面面经（已拿offer）](https://www.nowcoder.com/discuss/651301?from=gitnowcoder2021)
+47. [找工作总结](https://www.nowcoder.com/discuss/653912?from=gitnowcoder2021)
+48. [19届游戏开发社招转回互联网](https://www.nowcoder.com/discuss/654313?from=gitnowcoder2021)
 ---
 求职之前，先上牛客
 
