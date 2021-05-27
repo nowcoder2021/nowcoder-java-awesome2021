@@ -1,6 +1,6 @@
 # 牛客网2021年Java精华面经汇总（周更）
 
-更新时间：2021年5月20日
+更新时间：2021年5月27日
 1. [字节后端开发日常实习面试全流程~](https://www.nowcoder.com/discuss/588626?from=gitnowcoder2021)
 2. [北京天润融通科技Java社招面经](https://www.nowcoder.com/discuss/591855?from=gitnowcoder2021)
 3. [国企秋招经验总结](https://www.nowcoder.com/discuss/592495?from=gitnowcoder2021)
@@ -59,6 +59,12 @@
 56. [5.7 百度一面 Java实习](https://www.nowcoder.com/discuss/659453?from=gitnowcoder2021)
 57. [美团面试-到店-Java后端一面](https://www.nowcoder.com/discuss/659874?from=gitnowcoder2021)
 58. [海康三年开发社招-四面通过](https://www.nowcoder.com/discuss/661594?from=gitnowcoder2021)
+59. [网易、快手、滴滴、爱奇艺、迅雷面经](https://www.nowcoder.com/discuss/661814?from=gitnowcoder2021)
+60. [阿里妈妈广告部二面凉经](https://www.nowcoder.com/discuss/663791?from=gitnowcoder2021)
+61. [阿里java后端暑期实习3面+HR面面经（已意向）](https://www.nowcoder.com/discuss/663794?from=gitnowcoder2021)
+62. [杭州端点科技 Java实习 一面面经](https://www.nowcoder.com/discuss/663855?from=gitnowcoder2021)
+63. [腾讯，字节，虾皮，网易，微众面经分享](https://www.nowcoder.com/discuss/663962?from=gitnowcoder2021)
+64. [21届技术菜鸡的一年求职回顾](https://www.nowcoder.com/discuss/664094?from=gitnowcoder2021)
 ---
 求职之前，先上牛客
 
