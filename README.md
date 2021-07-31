@@ -1,4 +1,4 @@
-# 牛客网2021年Java精华面经汇总（周更）
+# 牛客网2021年Java精华面经汇总（月更）
 
 更新时间：2021年7月31日
 1. [字节后端开发日常实习面试全流程~](https://www.nowcoder.com/discuss/588626?from=gitnowcoder2021)
