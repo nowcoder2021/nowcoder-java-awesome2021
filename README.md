@@ -1,6 +1,6 @@
 # 牛客网2021年Java精华面经汇总（周更）
 
-更新时间：2021年6月30日
+更新时间：2021年7月31日
 1. [字节后端开发日常实习面试全流程~](https://www.nowcoder.com/discuss/588626?from=gitnowcoder2021)
 2. [北京天润融通科技Java社招面经](https://www.nowcoder.com/discuss/591855?from=gitnowcoder2021)
 3. [国企秋招经验总结](https://www.nowcoder.com/discuss/592495?from=gitnowcoder2021)
@@ -69,8 +69,12 @@
 66. [【面经分享】 滴滴和涂鸦智能金三银四面经](https://www.nowcoder.com/discuss/666550?from=gitnowcoder2021)
 67. [2021 互联网校招总结](https://www.nowcoder.com/discuss/670243?from=gitnowcoder2021)
 68. [2021阿里春招实习面经汇总](https://www.nowcoder.com/discuss/671888?from=gitnowcoder2021)
-69. [2021/6/17 科韵智慧科技公司面试总结](https://www.nowcoder.com/discuss/674075?from=gitnowcoder2021)
-70. [美团社招(上海)Java开发面经](https://www.nowcoder.com/discuss/676206?from=gitnowcoder2021)
+69. [秋招经验分享](https://www.nowcoder.com/discuss/671919?from=gitnowcoder2021)
+70. [2021/6/17 科韵智慧科技公司面试总结](https://www.nowcoder.com/discuss/674075?from=gitnowcoder2021)
+71. [美团社招(上海)Java开发面经](https://www.nowcoder.com/discuss/676206?from=gitnowcoder2021)
+72. [两年社招后端开发面经](https://www.nowcoder.com/discuss/679333?from=gitnowcoder2021)
+73. [最近实习面经，全凉凉。。。](https://www.nowcoder.com/discuss/683206?from=gitnowcoder2021)
+74. [目前的面经 字节（已意向书）阿里（三面结束）百度（三面结束）](https://www.nowcoder.com/discuss/687823?from=gitnowcoder2021)
 ---
 求职之前，先上牛客
 
